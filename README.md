@@ -1,2 +1,2 @@
 # gorilla-samen-comparsion
-This tool compares seeds and check the best price from the market in given region
+Dieses Tool vergleicht Saatgut und prüft den besten Marktpreis in einer bestimmten Region auf http://www.gorilla-cannabis-seeds.de/
